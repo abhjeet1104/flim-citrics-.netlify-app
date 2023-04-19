@@ -55,6 +55,7 @@ preview 2:-
 
 To run the project locally:
 
-1. Clone the repository: `git clone https://github.com/SamhithMR/filmCritic.git`
+1. Clone the repository: `git clone https://github.com/abhjeet1104/
+flim-citrics-.netlify-app.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
